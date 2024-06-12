@@ -15,3 +15,6 @@ This project contains a Bash script to automate the backup of important files or
 - `rsync` utility
 - `tar` utility
 - `sendmail` or `mailutils` for email notifications
+
+### Optional
+- Schedule a task to execute the script automatically. To do so, run crontab -e and modify it accordingly. 
